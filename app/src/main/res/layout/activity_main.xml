@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity"
-    android:layout_gravity="center">
+    android:gravity="center">
 
     <com.yuyakaido.android.cardstackview.CardStackView
         android:id="@+id/cardStackView"
